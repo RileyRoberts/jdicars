@@ -63,7 +63,6 @@
     }
 
     .carousel .container {
-      position: relative;
       z-index: 9;
     }
 
@@ -88,7 +87,7 @@
     }
 
     .carousel-caption {
-      background-color: transparent;
+      background-color: black;
       position: static;
       max-width: 550px;
       padding: 0 20px;
