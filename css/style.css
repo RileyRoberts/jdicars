@@ -133,6 +133,24 @@ body {
   line-height: 1;
   letter-spacing: -1px; }
 
+/* Table design
+-------------------------------------------------- */
+
+.plan-table {
+  height: 600px;
+  width: 100%;
+  margin-top: 80px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid black;
+}
+
+.plan-table .row {
+  border-bottom: 1px solid gray;
+  margin-left: 0px;
+  padding-bottom: 10px;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 @media (max-width: 979px) {
